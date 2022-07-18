@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/googleapis/nodejs-gke-backup/compare/v0.2.0...v0.2.1) (2022-07-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency google-gax to v3 ([#11](https://github.com/googleapis/nodejs-gke-backup/issues/11)) ([f4ac21d](https://github.com/googleapis/nodejs-gke-backup/commit/f4ac21d3ade5906714f971fa9c1de935995776e9))
+
 ## 0.2.0 (2022-06-28)
 
 
